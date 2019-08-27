@@ -12,3 +12,9 @@
 
 * [Agenda 2019-08-08](agenda/agenda-2019-08-08.md)
 
+## Pages of interest
+
+* [Zenhub](pages-of-interest/zenhub.md)
+* [Figma](pages-of-interest/figma.md)
+* [Source control](pages-of-interest/source-control.md)
+
