@@ -2,16 +2,14 @@
 
 * [Initial page](README.md)
 
-## Meeting notes
+## Scheduling <a id="schedule"></a>
 
-* [Date 2019-05-23](meeting-notes/date-2019-05-23.md)
-* [Date 2019-08-08](meeting-notes/date-2019-08-08.md)
-* [Date 2019-08-26](meeting-notes/date-2019-08-26.md)
-
-## agenda
-
-* [Agenda 2019-08-08](agenda/agenda-2019-08-08.md)
-* [Schedule](agenda/schedule.md)
+* [Schedule](schedule/schedule.md)
+* [Meetings](schedule/meetings/README.md)
+  * [Date 2019-08-26](schedule/meetings/date-2019-08-26.md)
+  * [Date 2019-08-08](schedule/meetings/date-2019-08-08/README.md)
+    * [Agenda 2019-08-08](schedule/meetings/date-2019-08-08/agenda-2019-08-08.md)
+  * [Date 2019-05-23](schedule/meetings/date-2019-05-23.md)
 
 ## Pages of interest
 
