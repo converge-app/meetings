@@ -15,7 +15,8 @@
 
 ## Pages of interest
 
-* [Zenhub](pages-of-interest/zenhub.md)
-* [Figma](pages-of-interest/figma.md)
-* [Source control](pages-of-interest/source-control.md)
+* [Tools](pages-of-interest/tools/README.md)
+  * [Zenhub](pages-of-interest/tools/zenhub.md)
+  * [Figma](pages-of-interest/tools/figma.md)
+  * [Source control](pages-of-interest/tools/source-control.md)
 
