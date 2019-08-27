@@ -11,6 +11,7 @@
 ## agenda
 
 * [Agenda 2019-08-08](agenda/agenda-2019-08-08.md)
+* [Schedule](agenda/schedule.md)
 
 ## Pages of interest
 
