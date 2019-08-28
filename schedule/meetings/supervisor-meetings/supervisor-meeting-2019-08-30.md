@@ -17,14 +17,16 @@
 ## Agenda:
 
 * Sprint demo:
-  * [https://www.figma.com/file/gPjP5SVtyQ1b9puskUQWGN/converge?node-id=15%3A2](https://www.figma.com/file/gPjP5SVtyQ1b9puskUQWGN/converge?node-id=15%3A2)
+  * [Rich image](https://photos.google.com/photo/AF1QipNBLecYUu_cZKX_k2QP0kQFRK-Kx7EL_xu4TkQ0)
+  * [Design](https://www.figma.com/file/gPjP5SVtyQ1b9puskUQWGN/converge?node-id=15%3A2)
+* Scrum board
 * Planned development phases
-  * Design, krav spec
   * Initial development \(MVP\)
-    * Show requirements
-    * Schedule \(Sprints v. timeline\)
-      * 
-  * 
+    * Show requirements \(See attachments\)
+    * [Schedule \(Sprints v. timeline\)](https://prod.teamgantt.com/gantt/schedule/?ids=1790284#&ids=1790284&user=&custom=&company=&hide_completed=false&date_filter=&color_filter=)
+* Report:
+  * How many pages?
+  * When should we hand in?
 * Schedule
   * [https://calendar.google.com/calendar/b/2/r?pli=1](https://calendar.google.com/calendar/b/2/r?pli=1)
 * Recurring supervisor meetings?
@@ -38,6 +40,12 @@
     * Victor Levesen \(Friends\)
     * Adrian Corfitsen
     * Ozge Bektas
+* What do you expect of us?
+  * Our ambitions and plans
+
+{% file src="../../../.gitbook/assets/main.pdf" %}
+
+
 
 ## Resume
 
