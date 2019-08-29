@@ -29,9 +29,7 @@
   * When should we hand in?
 * Schedule
   * [https://calendar.google.com/calendar/b/2/r?pli=1](https://calendar.google.com/calendar/b/2/r?pli=1)
-* Recurring supervisor meetings?
-* Secondary supervisor
-  * Are we gonna get rekt in the exam, if we don't have someone specializing in our field?
+* Recurring supervisor meetings
 * Equipment
   * Computer
     * Computing cost \(Bachelor funds\)?
