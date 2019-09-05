@@ -5,7 +5,7 @@
 * Participants:
   * [ ] Kasper J. Hermansen
   * [ ] Sameer A. Habibi
-  * [ ] Jesper Michael Kristensen
+  * [ ] Jesper M. Kristensen
 * Location:
   * Kahn 250
     * Password: 2244
@@ -32,7 +32,10 @@
   * User tests \(Victor\) I løbet af næste uge
   * Spørgsmål
     * Brug af open source biblioteker \(og værktøjer\)
-    * 
+    * Agil opdeling
+      * Inititatives
+      * Epics
+      * Userstories
 
 ## Resume
 
