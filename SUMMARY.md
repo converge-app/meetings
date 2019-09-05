@@ -8,6 +8,7 @@
 * [Meetings](schedule/meetings/README.md)
   * [Supervisor meetings](schedule/meetings/supervisor-meetings/README.md)
     * [Supervisor meeting 2019-08-30](schedule/meetings/supervisor-meetings/supervisor-meeting-2019-08-30.md)
+    * [Supervisor meeting 2019-09-06](schedule/meetings/supervisor-meetings/supervisor-meeting-2019-09-06.md)
   * [Date 2019-08-26](schedule/meetings/date-2019-08-26.md)
   * [Date 2019-08-08](schedule/meetings/date-2019-08-08/README.md)
     * [Agenda 2019-08-08](schedule/meetings/date-2019-08-08/agenda-2019-08-08.md)
