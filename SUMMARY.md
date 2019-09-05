@@ -20,4 +20,6 @@
   * [Zenhub](pages-of-interest/tools/zenhub.md)
   * [Figma](pages-of-interest/tools/figma.md)
   * [Source control](pages-of-interest/tools/source-control.md)
+* [Slack](pages-of-interest/slack/README.md)
+  * [Standup](pages-of-interest/slack/standup.md)
 
