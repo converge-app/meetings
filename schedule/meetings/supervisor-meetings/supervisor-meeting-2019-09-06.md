@@ -40,6 +40,31 @@
 
 ## Resume
 
+* Demo
+  * Applikation \(Draft\)
+    * Forside
+    * About
+    * Freelancer
+  * Backend
+    * Login \(muligvis\)
+  * Meta application
+    * Tracing
+    * Logging
+  * Krav specification
+    * Overordnede krav
+      * MoSCoW
+      * Funktionelle Krav
+  * User tests \(Victor\) I løbet af næste uge
+  * Spørgsmål
+    * Brug af open source biblioteker \(og værktøjer\)
+    * Agil opdeling
+      * Initiatives
+      * Epics
+      * User stories
+    * Kompetance vurdering til næste vejleder møde
+    * Send kravspec inden onsdag.
+    * Agil manifest & Martin Fowler.
+
 
 
 
