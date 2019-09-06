@@ -20,6 +20,7 @@
   * Applikation \(Draft\)
     * Forside
     * About
+    * Freelancer
   * Backend
     * Login \(muligvis\)
   * Meta application
@@ -28,14 +29,14 @@
   * Krav specification
     * Overordnede krav
       * MoSCoW
-    * Funktionelle Krav
+      * Funktionelle Krav
   * User tests \(Victor\) I løbet af næste uge
   * Spørgsmål
     * Brug af open source biblioteker \(og værktøjer\)
     * Agil opdeling
-      * Inititatives
+      * Initiatives
       * Epics
-      * Userstories
+      * User stories
 
 ## Resume
 
