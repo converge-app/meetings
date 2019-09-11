@@ -13,6 +13,9 @@
   * [Date 2019-08-08](schedule/meetings/date-2019-08-08/README.md)
     * [Agenda 2019-08-08](schedule/meetings/date-2019-08-08/agenda-2019-08-08.md)
   * [Date 2019-05-23](schedule/meetings/date-2019-05-23.md)
+* [Scrum](schedule/scrum/README.md)
+  * [Retrospectives](schedule/scrum/retrospectives/README.md)
+    * [Spring 6](schedule/scrum/retrospectives/spring-6.md)
 
 ## Pages of interest
 
