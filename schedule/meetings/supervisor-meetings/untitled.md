@@ -44,3 +44,7 @@
 * Questions:
   * To be added
 
+{% file src="../../../.gitbook/assets/issue-statement.pdf" %}
+
+{% file src="../../../.gitbook/assets/requirements-specification.pdf" %}
+
