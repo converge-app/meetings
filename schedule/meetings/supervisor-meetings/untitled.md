@@ -48,3 +48,9 @@
 
 {% file src="../../../.gitbook/assets/requirements-specification.pdf" %}
 
+## Resume
+
+{% embed url="http://plantuml.com/guide" %}
+
+![](../../../.gitbook/assets/72190588_548826135886811_995891607569956864_n-1.jpg)
+
