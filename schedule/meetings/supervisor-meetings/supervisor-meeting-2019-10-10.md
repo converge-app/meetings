@@ -1,7 +1,5 @@
 # Supervisor meeting 2019-10-10
 
-
-
 ## Information:
 
 * Participants:
