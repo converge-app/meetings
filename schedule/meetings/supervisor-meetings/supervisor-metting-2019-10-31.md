@@ -29,7 +29,10 @@
   * Release dates
 * Planned documentation
 * Questions
-  * TBA
+  * I forhold til evalueringsexcel ark. Hvad menes der med:
+    * Domæneforståelse, er det domæne model og reflektion i forhold til krav
+    * Baggrunden for projektet er beskrevet og relateret til projektformuleringen, vi ved ikke helt hvad der menes med denne sektion og hvad det skal munde ud i.
+    * Impact, menes det om det er samfunds eller arkitekturisk betydning.
 
 ‌
 
