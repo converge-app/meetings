@@ -39,3 +39,7 @@
 * [Slack](pages-of-interest/slack/README.md)
   * [Standup](pages-of-interest/slack/standup.md)
 
+## Document
+
+* [Terms](document/terms.md)
+
