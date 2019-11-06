@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [Documents](untitled.md)
+* [list of terms](list-of-terms.md)
 
 ## Scheduling <a id="schedule"></a>
 
