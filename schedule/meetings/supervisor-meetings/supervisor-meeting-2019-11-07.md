@@ -1,4 +1,4 @@
-# Supervisor meeting 2019-11-07
+# Supervisor meeting 2019-11-15
 
 ## Information: <a id="information"></a>
 
@@ -19,5 +19,8 @@
 * Status
   * Documents written
   * Documents needs to be written
+* started on a new sprint
+  * Raport
+  * status of the report so far
 * Update from questions from last meeting
 
