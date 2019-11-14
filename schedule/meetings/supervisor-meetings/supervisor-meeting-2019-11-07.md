@@ -18,9 +18,10 @@
 
 * Status
   * Documents written
-  * Documents needs to be written
-* started on a new sprint
-  * Raport
-  * status of the report so far
-* Update from questions from last meeting
+  * Documents that need to be written/finished
+  * Report overview
+    * Faster than expected.
+* Started on a new sprint
+  * Report
+* Update on questions from last meeting
 
