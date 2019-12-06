@@ -18,6 +18,7 @@
     * [Supervisor metting 2019-10-31](schedule/meetings/supervisor-meetings/supervisor-metting-2019-10-31.md)
     * [Supervisor meeting 2019-11-15](schedule/meetings/supervisor-meetings/supervisor-meeting-2019-11-07.md)
     * [Supervisor meeting 2019-11-21](schedule/meetings/supervisor-meetings/supervisor-meeting-2019-11-21.md)
+    * [Supervisor meeting 2019-12-07](schedule/meetings/supervisor-meetings/supervisor-meeting-2019-12-07.md)
   * [Meetings](schedule/meetings/meetings/README.md)
     * [Date 2019-08-26](schedule/meetings/meetings/date-2019-08-26.md)
     * [Date 2019-08-08](schedule/meetings/meetings/date-2019-08-08/README.md)
