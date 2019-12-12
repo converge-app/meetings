@@ -22,29 +22,23 @@
     </tr>
     <tr>
       <td style="text-align:left">DevOps</td>
-      <td style="text-align:left"> <b>DevOps</b> (engelsk: development + operation, udvikling + drift) er
-        en udviklingsmetode for it-systemer, som best&#xE5;r af anvisninger p&#xE5;,
-        hvorledes man kan sl&#xE5; bro mellem udviklingsaktiviteter og driftsaktiviteter
-        p&#xE5; en m&#xE5;de, s&#xE5; man fremmer kommunikation og samarbejde,
-        kontinuerlig integration, kvalitetssikring og levering</td>
-      <td style="text-align:left">DevOps</td>
-      <td style="text-align:left"><a href="https://da.wikipedia.org/wiki/DevOps">https://da.wikipedia.org/wiki/DevOps</a>
-      </td>
+      <td style="text-align:left"> <b>DevOps</b> er en udviklingsmetode for it-systemer, som best&#xE5;r af
+        anvisninger p&#xE5;, hvorledes man kan sl&#xE5; bro mellem udviklingsaktiviteter
+        og driftsaktiviteter p&#xE5; en m&#xE5;de, s&#xE5; man fremmer kommunikation
+        og samarbejde, kontinuerlig integration, kvalitetssikring og levering</td>
+      <td
+      style="text-align:left">DevOps</td>
+        <td style="text-align:left"><a href="https://da.wikipedia.org/wiki/DevOps">https://da.wikipedia.org/wiki/DevOps</a>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">single-page application</td>
-      <td style="text-align:left">En applikation p&#xE5; &#xE9;n side er en webapplikation eller et websted,
-        der interagerer med brugeren ved dynamisk at omskrive den aktuelle side
-        i stedet for at indl&#xE6;se hele nye sider fra en server.</td>
-      <td style="text-align:left">SPA</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Single-page_application">https://en.wikipedia.org/wiki/Single-page_application</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Services</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Services</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">websted, der interagerer med brugeren ved dynamisk at omskrive den aktuelle
+        side i stedet for at indl&#xE6;se hele nye sider fra en server.</td>
+      <td
+      style="text-align:left">SPA</td>
+        <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Single-page_application">https://en.wikipedia.org/wiki/Single-page_application</a>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">MoSCoW</td>
@@ -57,7 +51,7 @@
     </tr>
     <tr>
       <td style="text-align:left">minimum viable product</td>
-      <td style="text-align:left">er en udviklingsteknik, hvor et nyt produkt eller websted er udviklet
+      <td style="text-align:left">Er en udviklingsteknik, hvor et nyt produkt eller websted er udviklet
         med tilstr&#xE6;kkelige funktioner til at tilfredsstille tidlige brugeren.</td>
       <td
       style="text-align:left">MVP</td>
@@ -330,8 +324,10 @@
     </tr>
     <tr>
       <td style="text-align:left">Funktionelle/ikke-funktionelle</td>
-      <td style="text-align:left"><b> funktionelt krav </b>definerer et system eller dets komponent. <b>Ikke-funktionelt </b>krav
-        definerer kvalitetsattributten for et softwaresystem.</td>
+      <td style="text-align:left">
+        <p><b> funktionelt krav </b>definerer et system eller dets komponent.</p>
+        <p><b>Ikke-funktionelt </b>krav definerer kvalitetsattributten for et softwaresystem.</p>
+      </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://www.guru99.com/functional-vs-non-functional-requirements.html">https://www.guru99.com/functional-vs-non-functional-requirements.html</a>
       </td>
