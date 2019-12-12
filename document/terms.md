@@ -630,7 +630,8 @@
       <td style="text-align:left">n-tiers struktur</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Multitier_architecture">https://en.wikipedia.org/wiki/Multitier_architecture</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Komponent-baseret design</td>
