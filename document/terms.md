@@ -69,12 +69,16 @@
     </tr>
     <tr>
       <td style="text-align:left">Agil</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Agil software udvikling g&#xE5;r ud p&#xE5; at tilrettel&#xE6;ge software
+        udvikling til at fremstille et product for den tidlige bruger og arbejde
+        med forskellige cerimonier til at h&#xE5;ndterede udviklende krav.</td>
+      <td
+      style="text-align:left">Agile Software Development</td>
+        <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Agile_software_development">https://en.wikipedia.org/wiki/Agile_software_development</a>
+        </td>
     </tr>
     <tr>
-      <td style="text-align:left">Elasticsearch</td>
+      <td style="text-align:left">Elasticsearch, Logstash og Kibana</td>
       <td style="text-align:left">Elasticsearch er en distribueret, open source s&#xF8;gnings- og analysemotor
         til alle typer data, herunder tekst, numerisk, geospatial, struktureret
         og ustruktureret.</td>
@@ -84,9 +88,10 @@
     </tr>
     <tr>
       <td style="text-align:left">Zeits servere</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Zeit er firmaet bag NextJS og Now og bruges til udrulningen af Converge-SPA</td>
+      <td
+      style="text-align:left">Zeit</td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">nosql</td>
@@ -99,7 +104,8 @@
     </tr>
     <tr>
       <td style="text-align:left">Cloud DNS</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Google DNS service, er bundet op p&#xE5; Namecheaps nameserver og g&#xF8;r
+        det muligt at administerere dom&#xE6;net og dets routing.</td>
       <td style="text-align:left">Cloud DNS</td>
       <td style="text-align:left"><a href="https://cloud.google.com/dns/">https://cloud.google.com/dns/</a>
       </td>
@@ -131,9 +137,11 @@
     </tr>
     <tr>
       <td style="text-align:left">MongoDBClient</td>
+      <td style="text-align:left">MongoDBClent er et client bibliotek til .Net core som kan lave mongodb
+        foresp&#xF8;rgsler i C#</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://docs.mongodb.com/ecosystem/drivers/csharp/">https://docs.mongodb.com/ecosystem/drivers/csharp/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Transport Layer Security</td>
@@ -174,7 +182,9 @@
     </tr>
     <tr>
       <td style="text-align:left">Lean</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Lean produkt udvikling g&#xE5;r ud p&#xE5; at f&#xF8;lge diverse praksis
+        til at f&#xE5; et MVP produkt i luften og administrerer produktets udvikling
+        omkring brugere og mulige pivoer.</td>
       <td style="text-align:left">Lean</td>
       <td style="text-align:left"><a href="https://www.codementor.io/blog/software-development-methodologies-lean-vs-agile-principles-2fdodzuyzy">https://www.codementor.io/blog/software-development-methodologies-lean-vs-agile-principles-2fdodzuyzy</a>
       </td>
@@ -189,19 +199,19 @@
     </tr>
     <tr>
       <td style="text-align:left">Employer</td>
-      <td style="text-align:left">Empolyer kan enten v&#xE6;re aleme personer eller et firma. Har til form&#xE5;l
+      <td style="text-align:left">Employer kan enten v&#xE6;re aleme personer eller et firma. Har til form&#xE5;l
         at udgive projekter, som skal udarbejdes af andre.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Freelancer</td>
-      <td style="text-align:left"> <b>freelancer</b> er du din egen herre &#x2013; en selvst&#xE6;ndig virksomhed,
-        der tilbyder din arbejdskraft inden for en bestemt niche og/eller branche.</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"><a href="https://www.ase.dk/faa-svar/freelancer/jeg-vil-vaere-freelancer/hvad-er-en-freelancer">https://www.ase.dk/faa-svar/freelancer/jeg-vil-vaere-freelancer/hvad-er-en-freelancer</a>
-        </td>
+      <td style="text-align:left">Freelancer er du din egen herre &#x2013; en selvst&#xE6;ndig virksomhed
+        eller person, der tilbyder din arbejdskraft inden for en bestemt niche
+        og/eller branche.</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://www.ase.dk/faa-svar/freelancer/jeg-vil-vaere-freelancer/hvad-er-en-freelancer">https://www.ase.dk/faa-svar/freelancer/jeg-vil-vaere-freelancer/hvad-er-en-freelancer</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Personaer</td>
@@ -214,9 +224,11 @@
     </tr>
     <tr>
       <td style="text-align:left">Akt&#xF8;r</td>
+      <td style="text-align:left">En akt&#xF8;r er en bestem rolle som er taget i betragning i forhold til
+        systemet</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Actor_(UML)">https://en.wikipedia.org/wiki/Actor_(UML)</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -228,9 +240,9 @@
         <p><b>akt&#xF8;rerne </b>= Akt&#xF8;r er, at definerer og beskrive hvad en
           akt&#xF8;r er, samt redeg&#xF8;re for forskellige typer af akt&#xF8;rer</p>
         <p></p>
-        <p><b>developer</b> = Person der udvikler computer programer.</p>
+        <p><b>developer</b> = Person der udvikler computer programmer.</p>
         <p></p>
-        <p><b>supporter </b>= Supporter har kunde kontakt og informere admins omkring
+        <p><b>supporter </b>= Supporter har kunde kontakt og informerer admins omkring
           mulige fejl.</p>
         <p></p>
         <p><b>Administrator</b> = administrator ansat af Converge til at holde styr
@@ -249,11 +261,12 @@
     </tr>
     <tr>
       <td style="text-align:left">Converge-SPA</td>
-      <td style="text-align:left">Er selve klientapplikationen, hvor en bruger kan fortage forskellige handlinger.</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"><a href="https://app.converge-app.net/">https://app.converge-app.net/</a>
-        </td>
+      <td style="text-align:left">Er selve klientapplikationen, hvor en bruger kan fortage forskellige handlinger.
+        Dette best&#xE5;r af navnet p&#xE5; gruppen/firmaet og SPA for single page
+        application.</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://app.converge-app.net/">https://app.converge-app.net/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Inspiration sites</td>
@@ -265,22 +278,25 @@
     <tr>
       <td style="text-align:left">Converge-cluster</td>
       <td style="text-align:left">Web-serveren har en prim&#xE6;r funktion: At behandle anmodninger med
-        passende forretningslogik.</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+        passende forretningslogik. Er bygget op p&#xE5; Converge som er navnet
+        p&#xE5; gruppen, samt cluster hvilket referere til Kubernetes.</td>
+      <td
+      style="text-align:left"></td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Features</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">En feature er et stykke funktionalitet</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Software_feature">https://en.wikipedia.org/wiki/Software_feature</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Service</td>
+      <td style="text-align:left">En Service er et brudstykke af Converge-cluster. Dvs. f.eks. en Users
+        service</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">users-service.api.converge-app.net/swagger</td>
     </tr>
     <tr>
       <td style="text-align:left">Webapplikationen</td>
@@ -292,14 +308,16 @@
     </tr>
     <tr>
       <td style="text-align:left">DevOps Tooling and Proces</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Processor og v&#xE6;rkt&#xF8;jer der g&#xF8;r det muligt at skabe en bro
+        mellem udvikler og operations. Bla. Unittesting og monitorering.</td>
+      <td
+      style="text-align:left"></td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Projektleder</td>
       <td style="text-align:left">Projektleder har ansvaret, rollen og opgaven med at planl&#xE6;gge, organisere
-        og styre et</td>
+        og styre projektets retning.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://da.wikipedia.org/wiki/Projektledelse">https://da.wikipedia.org/wiki/Projektledelse</a>
       </td>
@@ -308,7 +326,8 @@
       <td style="text-align:left">Scrum master</td>
       <td style="text-align:left">
         <p>Scrum Master betjener udviklingsholdet p&#xE5; flere m&#xE5;der, herunder:</p>
-        <p>Hj&#xE6;lp udviklingsholdet med at skabe produkter med h&#xF8;j v&#xE6;rdi.</p>
+        <p>Hj&#xE6;lp udviklingsholdet med at skabe produkter med h&#xF8;j v&#xE6;rdi,
+          ved hj&#xE6;lp af scrum.</p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://www.scrum.org/resources/what-is-a-scrum-master">https://www.scrum.org/resources/what-is-a-scrum-master</a>
@@ -342,7 +361,8 @@
     </tr>
     <tr>
       <td style="text-align:left">Operationspersonale</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Operations personale er den del af virksomheden som har ansvaret for driften
+        af applikationerne.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -388,9 +408,11 @@
     </tr>
     <tr>
       <td style="text-align:left">Refinement</td>
+      <td style="text-align:left">Refinement eller bedre kendt som grooming er en cerimoni, hvori opgaver
+        bliver estimeret og defineret tilstr&#xE6;kkeligt.</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://hygger.io/blog/product-backlog-grooming-vs-sprint-planning/">https://hygger.io/blog/product-backlog-grooming-vs-sprint-planning/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Retrospektives</td>
@@ -418,7 +440,8 @@
     </tr>
     <tr>
       <td style="text-align:left">Applikationskode</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Applikationskode er kode som definere det skrevne kode af virksomheden
+        som rammer brugere.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -442,7 +465,8 @@
     </tr>
     <tr>
       <td style="text-align:left">Repository Manager</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">En repository manager er det centrale sted hvor git bliver administrerert.
+        I forhold til Converge er dette GitHub og GitLab.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -451,7 +475,8 @@
       <td style="text-align:left">
         <p>pullrequests = fort&#xE6;ller om &#xE6;ndringer, der er blevet fortaget
           i en branch i repository p&#xE5; GitHub</p>
-        <p>issues =</p>
+        <p>issues = er problemer eller sp&#xF8;rgsm&#xE5;l relaterende til det kode
+          der bliver opbevaret det givne git repository.</p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests">https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests</a>
@@ -461,7 +486,8 @@
       <td style="text-align:left">Feature branche</td>
       <td style="text-align:left">Den grundl&#xE6;ggende id&#xE9; med en feature branch er, at n&#xE5;r
         du begynder at arbejde p&#xE5; en feature , tager du en branch af repository
-        for at arbejde p&#xE5; den feature.</td>
+        for at arbejde p&#xE5; den feature. Og f&#xF8;rst l&#xE6;gger det sammen
+        med andet kode n&#xE5;r featuren er f&#xE6;rdig.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://martinfowler.com/bliki/FeatureBranch.html">https://martinfowler.com/bliki/FeatureBranch.html</a>
       </td>
@@ -476,14 +502,15 @@
     </tr>
     <tr>
       <td style="text-align:left">GitHub Flow</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">GitHub Flow er en branching strategi for git. Hvilket g&#xE5;r ud p&#xE5;
+        at have kortlevede feature branches.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://guides.github.com/introduction/flow/">https://guides.github.com/introduction/flow/</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Gitlab</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">GitLab er en repository manager og pipeline.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/GitLab">https://en.wikipedia.org/wiki/GitLab</a>
       </td>
@@ -500,7 +527,8 @@
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p><b>Helm </b>= Helm hj&#xE6;lper dig med at administrere Kubernetes-applikationer</p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>Kubernetes</b> =</p>
+        <p><b>Kubernetes</b> = er en orkesteringsplatform, som tilbyder orkestrering
+          af servere og applikationer.</p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
@@ -539,11 +567,11 @@
     </tr>
     <tr>
       <td style="text-align:left">Traefik</td>
-      <td style="text-align:left">Er en open-source Edge Router, der g&#xF8;r publicering af dine Services</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"><a href="https://docs.traefik.io/">https://docs.traefik.io/</a>
-        </td>
+      <td style="text-align:left">Er en open-source Edge Router, der g&#xF8;r publicering af dine Services
+        nemt.</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://docs.traefik.io/">https://docs.traefik.io/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Reverse-Proxy</td>
@@ -563,13 +591,14 @@
     </tr>
     <tr>
       <td style="text-align:left">Applikationsserver</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Applikationsserver er en arbejds applikation, som udf&#xF8;rerer et stykke
+        arbejde, om det er til web eller andet.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Now</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Now er en udrulningsservice til NextJS udbudt af Zeit</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -590,7 +619,9 @@
     </tr>
     <tr>
       <td style="text-align:left">LaTex</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">LaTeX er et formatteringsv&#xE6;rkt&#xF8;j skrevet i TeX. Dette bruges
+        til publikationer og er brugt prim&#xE6;rt til dokumentation og rapport
+        skrivning.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/LaTeX">https://en.wikipedia.org/wiki/LaTeX</a>
       </td>
@@ -605,7 +636,7 @@
     </tr>
     <tr>
       <td style="text-align:left">React</td>
-      <td style="text-align:left">React er en Javascript bibliotek som benyttes til at lave brugergr&#xE6;nseflad</td>
+      <td style="text-align:left">React er en Javascript bibliotek som benyttes til at lave brugergr&#xE6;nseflader</td>
       <td
       style="text-align:left"></td>
         <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/React_(web_framework)">https://en.wikipedia.org/wiki/React_(web_framework)</a>
@@ -622,20 +653,24 @@
     </tr>
     <tr>
       <td style="text-align:left">Softwareinfrastruktur</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Software infrastruktur, er infrastur der underst&#xF8;tter et givet form&#xE5;l
+        af en applikation. S&#xE5;som Inversion og Control.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">n-tiers struktur</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">N tier er en mange lags arkitektur, og har som regel pr&#xE6;sentation,
+        forretning og data persisterings lag. Samt flere.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Multitier_architecture">https://en.wikipedia.org/wiki/Multitier_architecture</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Komponent-baseret design</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Komponent-baseret design er software arkitektur som er beskrevet som komponenter
+        og ikke objekter. dvs. At der er et hieraki, noget som Object orienteret
+        programmering ikke n&#xF8;dvendigvis har.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -681,7 +716,9 @@
     </tr>
     <tr>
       <td style="text-align:left">Escaped</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Escaped betyder at en streng er formatteret til at fjerne ulovlige karakterere.
+        Dvs, at ulovlige karakterere ikke kan g&#xF8;re skade p&#xE5; applikationen
+        eller databasen.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -695,7 +732,8 @@
     </tr>
     <tr>
       <td style="text-align:left">Microservice</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Microservices er en service som tilbyder en begr&#xE6;nset funktionalitet
+        inden for et felt.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Microservices">https://en.wikipedia.org/wiki/Microservices</a>
       </td>
